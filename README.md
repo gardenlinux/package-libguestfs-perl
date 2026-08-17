@@ -1,1 +1,2 @@
 # package-libguestfs-perl
+# DO NOT USE ! ALREADY COVERED BY PACKAGE-LIBGUESTFS
